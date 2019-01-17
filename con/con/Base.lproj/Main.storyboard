@@ -72,6 +72,8 @@
                     <connections>
                         <outlet property="flipcountLable" destination="SWf-G0-iIO" id="cWv-mX-VJO"/>
                         <outletCollection property="UIButtons" destination="FIE-Dc-9sp" collectionClass="NSMutableArray" id="Nh4-FC-vai"/>
+                        <outletCollection property="UIButtons" destination="bVZ-Jb-sfW" collectionClass="NSMutableArray" id="PGY-iB-Rhd"/>
+                        <outletCollection property="UIButtons" destination="Bsp-3q-Kkn" collectionClass="NSMutableArray" id="erk-Y1-Obt"/>
                     </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
